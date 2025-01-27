@@ -13,11 +13,11 @@ I'm a **MERN Stack Developer** passionate about **Open Source Contribution (FOSS
 ---
 
 ## 🌟 Featured Projects
-- [**Project 1**](https://github.com/yourusername/project1)  
+- [**Project 1**](https://github.com/muthuraman2002/project1)  
   _Description_: A web app for [what it does]. Built with **React**, **Node.js**, and **MongoDB**.  
-- [**Project 2**](https://github.com/yourusername/project2)  
+- [**Project 2**](https://github.com/muthuraman2002/chatbotusing_vector_db)  
   _Description_: An AI-powered chatbot for customer support using **Natural Language Processing (NLP)**.  
-- [**Automation Scripts**](https://github.com/yourusername/automation-scripts)  
+- [**Automation Scripts**](https://github.com/muthuraman2002/automation-scripts)  
   _Description_: A collection of Shell scripts to automate tasks like server setup, log rotation, and backup management.  
   - **Example Scripts:**
     - **Server Setup Script**: Automates server configuration for Node.js applications using NGINX and PM2.  
@@ -75,7 +75,7 @@ I'm a **MERN Stack Developer** passionate about **Open Source Contribution (FOSS
 ---
 
 ### 🚀 Highlight Your Journey
-- Replace placeholders (`yourusername`, `yourwebsite.com`, `yourhandle`) with your actual information.  
+- Replace placeholders (`muthuraman2002`, `yourwebsite.com`, `yourhandle`) with your actual information.  
 - Add more details about your **Jenkins** learning journey or showcase a small Jenkins CI/CD pipeline project once completed.  
 
 Let me know if you'd like to dive deeper into customizing your Jenkins section or your README! 😊
